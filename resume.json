@@ -243,7 +243,7 @@
       }
   },
   "theme":{
-      "color":"#2f5785",
-      "tagColor":"#8bc34a"
+    "color":"#EBEDFB",
+    "tagColor":"#C7CEF3"
   }
 }
